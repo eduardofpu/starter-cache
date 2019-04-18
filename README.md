@@ -18,4 +18,6 @@ e
 SimpleBookRepository
 //@Cacheable("books")
 
+mais informações: https://spring.io/guides/gs/caching/
+
 ```
